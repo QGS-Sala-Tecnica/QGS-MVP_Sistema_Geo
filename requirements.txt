@@ -1,8 +1,9 @@
 streamlit
 geopandas
+fiona
 folium
 streamlit-folium
-fiona
+pyproj
 shapely
 pandas
-
+numpy
