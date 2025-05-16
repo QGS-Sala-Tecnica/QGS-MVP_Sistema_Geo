@@ -1,6 +1,8 @@
 streamlit
 geopandas
-shapely
 folium
 streamlit-folium
 fiona
+shapely
+pandas
+
